@@ -1,0 +1,130 @@
+Status,Session Title,Session Code,Date,Start Time,End Time,Room
+
+Scheduled, PhysicsNeMo ,S81969,2026-03-15,19:00,19:50,China Simulive Room 3
+Scheduled,,S81939,2026-03-15,20:00,20:50,China Simulive Room 3
+Scheduled, NVIDIA  AI  AI ,S81974,2026-03-15,23:00,23:50,China Simulive Room 1
+Scheduled, AI ,S81577,2026-03-16,00:00,00:50,China Simulive Room 3
+Scheduled,,S81858,2026-03-16,01:00,01:50,China Simulive Room 3
+Scheduled,GTC 2026 Keynote,S81595,2026-03-16,11:00,13:00,SAP Center
+Scheduled,,S81619,2026-03-16,19:00,19:50,China Simulive Room 3
+Scheduled, Isaac Gym  Isaac Lab,S81860,2026-03-16,20:00,20:50,China Simulive Room 3
+Scheduled, ChatGPT ,S82278,2026-03-16,23:00,23:50,China Simulive Room 3
+Scheduled, Physical AI ,S82188,2026-03-17,00:00,00:50,China Simulive Room 3
+Scheduled,AI ,S81944,2026-03-17,01:00,01:50,China Simulive Room 3
+Scheduled,Build Physical Intelligence: Open Collaboration Across Robotics Ecosystems,S81509,2026-03-17,03:00,03:50,EMEA Simulive Room 1
+Scheduled,Agentic Systems for End-to-End Surgical Workflows,S81941,2026-03-17,04:00,04:50,EMEA Simulive Room 1
+Scheduled,Beyond the Black Box: Interpretability of LLMs in Finance,S82175,2026-03-17,06:00,06:50,EMEA Simulive Room 2
+Scheduled, 3D  Beyond Visuals: A Physics-Informed Generative Method for Articulated 3D Assets,S81935,2026-03-17,19:00,19:50,China Simulive Room 3
+Scheduled, NVIDIA Jetson Thor ,S81962,2026-03-17,20:00,20:50,China Simulive Room 3
+Scheduled, NVIDIA Isaac Sim  Genie Sim 3.0 ,S81971,2026-03-17,23:00,23:50,China Simulive Room 3
+Scheduled, GPU  Diffusion-Driven Embodied AI: From Unified Theory to GPU-Accelerated Robot Policies,S81979,2026-03-18,00:00,00:50,China Simulive Room 3
+Scheduled,"PAINVIDIAPhysicalAI PAI Integrates NVIDIA Physical AI: Power E2E SDG, Model Training & Evaluation",S82282,2026-03-18,01:00,01:50,China Simulive Room 3
+Scheduled,Neural Physics for AI-Powered Differentiable PDE-Solvers and Digital Twins,S81927,2026-03-18,03:00,03:50,EMEA Simulive Room 4
+Scheduled,Watch Party: How Open World Models are Powering the Next Breakthroughs in Physical AI,WP81667a,2026-03-20,00:00,01:30,Virtual WP 4
+Scheduled,Watch Party: Visual AI Agents for Real-Time Video Understanding,WP81836a,2026-03-22,01:00,02:30,Virtual WP 4
+Scheduled,Watch Party: From Concept to Production: Humanoid Robotics at Scale,WP81645,2026-03-23,00:00,01:30,Virtual WP
+Scheduled,Watch Party: How Open World Models are Powering the Next Breakthroughs in Physical AI,WP81667d,2026-03-23,02:30,04:00,Virtual WP 2
+Scheduled,"Watch Party: Nemotron Unpacked: Build, Fine-Tune, and Deploy NVIDIA's Open Models",WP81719b,2026-03-23,05:00,06:30,Virtual WP 4
+Scheduled,Watch Party:  AI ,WP81806,2026-03-23,22:00,23:00,Virtual WP 3
+Scheduled,Watch Party: Bringing Physical AI to Smart Spaces,WP81862,2026-03-23,23:00,00:30,Virtual WP 5
+Scheduled,Watch Party:  AI ,WP81598,2026-03-24,01:00,02:00,Virtual WP 3
+Scheduled,Watch Party:  AI ,WP81836,2026-03-24,19:30,20:30,Virtual WP
+Favorited,(Favorited) Accelerate Hybrid Quantum-Classical Research at Scale With NVIDIA CUDA-Q (Presented by Foxconn),S82043,2026-03-17,14:00,14:40,Marriott - Willow Glen I-III (L2)
+Favorited,(Favorited) Al + Quantum: Unlocking the Next Era of Scientific and Industrial Breakthroughs (Presented by Quantinuum),EX82178,2026-03-18,17:40,17:55,SJCC Hall 1 Theater (L2)
+Favorited,(Favorited) Realizing the Promise of Quantum Computation,S82295,2026-03-18,15:00,15:40,Hyatt Place - Salon 1
+Favorited,(Favorited) Hard-Won Lessons From Production Inference at Scale (Presented by Together AI),S82345,2026-03-17,16:00,16:40,Hilton Winchester (L1)
+Favorited,(Favorited) The State of Open Source AI,S81791,2026-03-17,16:00,16:40,SJCC LL20CD (LL)
+Favorited,(Favorited) Distillation Recipes and Synthetic Data Fine-Tuning for Algorithmic Trading,S81522,2026-03-17,13:00,13:40,Marriott - Ballroom Salon IV (L2)
+Favorited,(Favorited) Generate Synthetic Data for Physical AI with NVIDIA Cosmos World Foundation Models,DLIT81644,2026-03-18,13:00,14:45,Signia - Gold Ballroom (L2)
+Favorited,(Favorited) Building the Next Wave of AI-Enabled Robots,S81490,2026-03-17,16:00,17:00,Montgomery Theater
+Favorited,(Favorited)  NVIDIA Dynamo Router  LongCat-Flash -,S81943,2026-03-17,19:00,20:00,China Simulive Room 2
+Favorited,(Favorited)  2026  AI  - AI  AI ,S81846,2026-03-16,01:00,02:00,China Simulive Room 1
+Favorited,(Favorited) A New Frontier for Vision AI with Expert Reasoning Agents,S81863,2026-03-18,14:00,14:40,SJCC 212BD (L2)
+Favorited,(Favorited) NVIDIA  AI ,S81981,2026-03-15,20:00,20:50,China Simulive Room 1
+Favorited,(Favorited) Watch Party: How Open World Models are Powering the Next Breakthroughs in Physical AI,WP81667c,2026-03-22,23:00,00:30,Virtual WP 3
+Favorited,(Favorited) Introduction to Neural Rendering,S81661,2026-03-18,16:00,16:40,Marriott - Ballroom Salon IV (L2)
+Favorited,(Favorited) ,S82127,2026-03-15,23:00,23:50,China Simulive Room 3
+Favorited,(Favorited) ,S82109,2026-03-17,00:00,00:50,China Simulive Room 4
+Favorited,(Favorited)  DeepGEMM  FlashMLA  DeepEP  DeepSeek  Blackwell ,S81938,2026-03-16,19:00,19:50,China Simulive Room 1
+Favorited,(Favorited) Advancing to AI's Next Frontier: Insights From Jeff Dean and Bill Dally,S82167,2026-03-18,16:00,17:00,San Jose Civic
+Favorited,(Favorited) How AI Systems Evolve Into Long-Horizon Agents,S82413,2026-03-19,12:00,12:40,Marriott - Ballroom Salon III (L2)
+Favorited,(Favorited) Benchmarking the Path to Useful Quantum Computers,S82191,2026-03-17,16:00,16:40,SJCC 212BD (L2)
+Favorited,(Favorited) Qwen3-Omni,S81940,2026-03-16,20:00,20:50,China Simulive Room 4
+Favorited,(Favorited) Reinforced Cognitive,S82202,2026-03-17,22:30,23:20,China Simulive Room 4
+Favorited,(Favorited) LLM ,S82281,2026-03-16,01:00,01:50,China Simulive Room 4
+Favorited,(Favorited) From Signal to Strategy: Unlock Alpha With AI-Powered Research and Trading,S81957,2026-03-16,17:00,17:40,SJCC LL21F (LL)
+Favorited,(Favorited) Build Next-Generation Foundation Models in Finance,S81618,2026-03-18,15:00,15:40,SJCC 230B (L2)
+Favorited,(Favorited) AI  NVIDIA  AI  AI OpenUSD ,S81900,2026-03-16,00:00,00:50,China Simulive Room 4
+Favorited,(Favorited) How Perplexity AI Scales Real-Time Search With Breakthrough Mixture-of-Experts Performance,S81701,2026-03-18,14:00,14:40,Montgomery Theater
+Favorited,(Favorited) An Introduction to Newton Physics Engine for Robotics,S81613,2026-03-19,11:00,12:30,SJCC LL21CD (LL)
+Favorited,(Favorited) ROLL NVIDIA Megatron LLM  An Efficient and User-Friendly Large-Scale RL Framework Integrating Megatron,S82284,2026-03-15,20:00,20:50,China Simulive Room 2
+Favorited,(Favorited)  verl ,S81829,2026-03-15,19:00,19:50,China Simulive Room 2
+Favorited,(Favorited) Developing Generative AI Models for Market Activity,S81530,2026-03-17,16:00,16:40,Marriott - Ballroom Salon IV (L2)
+Favorited,(Favorited) Accelerate Geospatial Workflows for Planetary Insight,S81732,2026-03-17,15:00,15:40,Marriott - Ballroom Salon III (L2)
+Favorited,(Favorited) Gesture-Based Control of Heavy Equipment Using Simulation-First Robotics Workflows (Presented by Marvik),EX82215,2026-03-16,17:40,17:55,SJCC Grand Ballroom Theater (L2)
+Favorited,(Favorited) Build an Open Surgery Robot AI Platform With NVIDIA Frameworks,S81512,2026-03-17,16:00,16:40,SJCC LL21AB (LL)
+Favorited,(Favorited) Deep Dive: Streaming Immersive Robotics Teleoperations,S82001,2026-03-17,10:00,11:30,SJCC 212AC (L2)
+Favorited,(Favorited) How Open World Models are Powering the Next Breakthroughs in Physical AI,S81667,2026-03-17,15:00,15:40,San Jose Civic
+Favorited,(Favorited) Watch Party: Evaluation-Driven Development: Best Practices for Building Reliable Agents,WP81706,2026-03-23,00:00,01:30,China Simulive Room 4
+Favorited,(Favorited) From Concept to Production: Humanoid Robotics at Scale,S81645,2026-03-16,15:00,15:40,San Jose Civic
+Favorited,(Favorited) Deploy Reliable Agents at Scale With Reinforcement Learning and High-Performance Inference (Presented by CoreWeave),S82201,2026-03-17,11:00,11:40,Hilton Almaden 1&2 (L1)
+Favorited,(Favorited) Build a Video Analytics AI Agent With Vision Language Models,DLIT81774,2026-03-16,16:00,17:45,Signia - Regency I Ballroom (L2)
+Favorited,(Favorited) Watch Party: Physical AI for Healthcare Robotics-Part 1: Simulation-First Design and Accelerated Development,WP81821,2026-03-22,00:00,01:30,Virtual WP
+Favorited,(Favorited) Engineering Real-World LLM Inference: Bridging Open-Source and Production Systems,S82026,2026-03-17,14:00,14:40,SJCC 211AC (L2)
+Favorited,"(Favorited) Diffusion Unlocked: Advanced Techniques for Training, Inference, and Deployment",S81684,2026-03-18,09:00,09:40,Montgomery Theater
+Favorited,(Favorited) Computing on the Road: Scaling the Waymo Driver for the Real World,S82484,2026-03-18,09:00,09:40,Marriott - Ballroom Salon V-VI (L2)
+Favorited,(Favorited) NVIDIA  2.0  AI ,S82221,2026-03-18,01:30,02:20,China Simulive Room 4
+Favorited,(Favorited) Always-On Innovation: How Nasdaq Deploys AI in Mission-Critical Market,S82153,2026-03-18,14:00,14:40,SJCC 230B (L2)
+Favorited,(Favorited) Integrating AI and Quantum Computing to Accelerate the Future of Supercomputing,S81804,2026-03-16,15:00,15:40,SJCC LL21CD (LL)
+Favorited,(Favorited) Build Robot-Ready Assets for Physically Accurate Simulations With Lightwheel,DLIT81816,2026-03-17,08:00,09:45,Signia - Regency II Ballroom (L2)
+Favorited,(Favorited) Robotic Automation in Neurosurgery Navigation With Isaac and Holoscan,S81749,2026-03-18,16:00,16:40,SJCC LL21AB (LL)
+Favorited,(Favorited) Reinforcement Learning at Scale: Engineering the Next Generation of Intelligence,S82182,2026-03-16,16:00,16:40,SJCC LL21AB (LL)
+Favorited,(Favorited) When Surgical Intelligence Becomes Embodied: The Agentic Operating Room and the Partners Behind It,EX82386,2026-03-17,18:00,18:15,SJCC Hall 1 Theater (L2)
+Favorited,(Favorited) Watch Party: How Open World Models are Powering the Next Breakthroughs in Physical AI,WP81667b,2026-03-22,23:00,00:00,Virtual WP 4
+Favorited,(Favorited) Accelerating Scientific Discovery Through Global Innovation,S82438,2026-03-17,09:00,09:40,SJCC 230B (L2)
+Favorited,(Favorited) From Data to Meaning: Vision-Language Models Shaping the Cities of Tomorrow,S81867,2026-03-18,01:00,01:40,EMEA Simulive Room 1
+Favorited,(Favorited) Beyond the Workcell: Scaling Robotics Workflows Across the Factory Floor,S81611,2026-03-18,11:00,12:00,SJCC LL21F (LL)
+Favorited,(Favorited) AI Research Breakthroughs from NVIDIA Research (Hosted by Karoly of Two Minute Papers),S81810,2026-03-17,14:00,14:40,San Jose Civic
+Favorited,(Favorited) Advance World Simulation With 3D Gaussian Splatting for Large-Scale Environment Reconstruction,DLIT81757,2026-03-19,13:00,14:45,Signia - Gold Ballroom (L2)
+Favorited,(Favorited) Developing AI Physics Models for Spacecraft Reentry,S81767,2026-03-17,15:00,15:40,SJCC LL21E (LL)
+Favorited,(Favorited) How We Scaled Kimi K2.5,S81695,2026-03-17,11:00,11:40,San Jose Civic
+Favorited,(Favorited)  Performance optimization for training Multimodal Large Language Models,S81883,2026-03-16,01:00,01:50,China Simulive Room 2
+Favorited,(Favorited) DiT ,S81970,2026-03-16,20:00,20:50,China Simulive Room 1
+Favorited,(Favorited) Scaling the AI Life Cycle: Next-Gen Training and Inference With Crusoe Cloud (Presented by Crusoe),S82018,2026-03-18,09:00,09:40,Hilton Winchester (L1)
+Favorited,(Favorited) Build Trust and Discovery Through OpenSource AI in Research,S81835,2026-03-18,14:00,14:40,SJCC 211AC (L2)
+Favorited,(Favorited) MindVLA-o1----,S81978,2026-03-16,23:00,23:50,China Simulive Room 4
+Favorited,"(Favorited) Automotive Special Address: Advancing Level 4 Autonomy, the Path to Scalable, Safe AVs and Robotaxis",S81713,2026-03-16,16:00,16:40,San Jose CPA
+Favorited,(Favorited) NVIDIA GPU  LLM ,S81620,2026-03-16,23:00,23:50,China Simulive Room 2
+Favorited,(Favorited) Inside Pixars RenderMan: XPU Technology and Storytelling on Toy Story 5 (Presented by Dell),S82316,2026-03-16,17:00,17:40,Hilton Almaden 1&2 (L1)
+Favorited,(Favorited) Advancing Autonomous Vehicles With World Models,S82446,2026-03-19,10:00,10:40,Montgomery Theater
+Favorited,(Favorited) Accelerating Quantum Chemistry on GPUs-Latest Advances,S81770,2026-03-17,16:00,16:40,SJCC LL21E (LL)
+Favorited,(Favorited) How to Build EndtoEnd Physical AI Systems for Humanoid Robots,S81478,2026-03-19,14:00,15:30,SJCC LL21CD (LL)
+Favorited,(Favorited) How We Scaled RL for Agentic Coding: Lessons from Training SWE-1.6,S81825,2026-03-17,10:00,10:40,SJCC LL20CD (LL)
+Favorited,(Favorited) -- VLM ,S81961,2026-03-15,23:00,23:50,China Simulive Room 4
+Favorited,(Favorited) An Introduction to Robot Simulation,S81488,2026-03-19,09:00,10:30,SJCC LL21CD (LL)
+Favorited,(Favorited) Accelerate Physical AI with Simulation-Centric Data Engine (Presented by Lightwheel),EX82219,2026-03-16,17:20,17:35,SJCC Hall 1 Theater (L2)
+Favorited,(Favorited) From Research to Production: How Alpamayo Accelerates Autonomous Vehicle Development,S81779,2026-03-16,15:00,15:40,Hyatt Place - Salon 2 & 3
+Favorited,(Favorited)  Architectures of Scale: Navigate the Continual Learning in Large Language Models,S82322,2026-03-17,01:00,01:50,China Simulive Room 2
+Favorited,(Favorited)  WAM  AI 2.0AI + ,S82358,2026-03-17,19:00,19:50,China Simulive Room 4
+Favorited,(Favorited) China AI Networking Day -  10  AI ,S81580,2026-03-16,23:00,01:00,China Simulive Room 1
+Favorited,(Favorited) Decoding Quantum Errors With AI,S81868,2026-03-19,11:00,12:30,SJCC 211AC (L2)
+Favorited,(Favorited) Disneys Robotic Characters: From the Screen to Reality via Physical AI,S81492,2026-03-17,09:00,09:40,San Jose CPA
+Favorited,(Favorited) Charting a Course for the Next Decade of Gaming With AI,S81874,2026-03-17,16:00,17:00,Marriott - Ballroom Salon III (L2)
+Favorited,"(Favorited) Building the Future of Music and AI, With Sir Lucian Grainge From Universal Music Group",S82449,2026-03-17,14:00,14:40,Montgomery Theater
+Favorited,"(Favorited) Building Americas AI-Native 6G: Architecture, Timelines, and Ecosystem Innovations",S82023,2026-03-19,09:00,09:40,SJCC 212AC (L2)
+Favorited,(Favorited) Best Practices for Building Agentic AI with Open Source Models,WPP81702b,2026-03-23,21:30,23:00,Virtual WP 2
+Favorited,(Favorited) Graduate Fellowship Fast Forward Talks,S81467,2026-03-17,13:00,13:40,SJCC LL21F (LL)
+Favorited,(Favorited) AIBOX + AIOS AI ,S81975,2026-03-18,00:30,01:20,China Simulive Room 4
+Favorited,(Favorited) Use Reinforcement Learning to Turn AI Agents Into Continuous Learners,S82359,2026-03-18,11:00,11:40,SJCC LL20CD (LL)
+Favorited,"(Favorited) AI Agents, Robotics, and Digital Twins: The Full Stack of Self-Driving Labs and Biomanufacturing",S81674,2026-03-17,10:00,10:40,SJCC LL21F (LL)
+Favorited,(Favorited) Build Custom Large-Scale Generative AI Models,S82197,2026-03-18,10:00,10:40,Marriott - Ballroom Salon IV (L2)
+Favorited,(Favorited)  L2  L4 - Thor  L4  Robotaxi ,S82131,2026-03-17,23:30,00:20,China Simulive Room 4
+Favorited,(Favorited) Insights From NVIDIA Research,S82168,2026-03-18,10:00,10:40,Montgomery Theater
+Favorited,"(Favorited) All Roads, All Rides: Technical Foundations for a Universal Autonomy Platform",S82418,2026-03-17,15:00,15:40,Marriott - Ballroom Salon V-VI (L2)
+Favorited,(Favorited) Code with Context: Build an Agentic IDE that Truly Understands Your Codebase,S81528,2026-03-18,09:00,09:40,SJCC LL20CD (LL)
+Favorited,(Favorited) ,S81995,2026-03-17,01:00,01:50,China Simulive Room 4
+Favorited,(Favorited)  Agent RL ,S82283,2026-03-15,23:00,23:50,China Simulive Room 2
+Favorited,(Favorited) Watch Party:  AI ,WP81667,2026-03-23,23:30,00:30,Virtual WP 3
+Favorited,(Favorited) 2025 Gordon Bell Winner: Forecasting Tsunamis in Real Time With Digital Twins,S82161,2026-03-17,16:00,16:40,SJCC 211AC (L2)
+Favorited,(Favorited)  M2  M2.5 (Mini)  (Max) ,S82486,2026-03-16,20:00,20:50,China Simulive Room 2
+Favorited,"(Favorited) From Prototype to Playable: Bringing Scalable ML Into ""World of Tanks: HEAT""",S81622,2026-03-17,15:00,15:40,Marriott - Ballroom Salon I-II (L2)
